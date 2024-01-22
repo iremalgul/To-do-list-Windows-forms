@@ -1,0 +1,17 @@
+C:\Users\İrem\Source\Repos\ToDoList\ToDoList\bin\Debug\ToDoList.exe.config
+C:\Users\İrem\Source\Repos\ToDoList\ToDoList\bin\Debug\ToDoList.exe
+C:\Users\İrem\Source\Repos\ToDoList\ToDoList\bin\Debug\ToDoList.pdb
+C:\Users\İrem\Source\Repos\ToDoList\ToDoList\bin\Debug\EntityFramework.dll
+C:\Users\İrem\Source\Repos\ToDoList\ToDoList\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\İrem\Source\Repos\ToDoList\ToDoList\bin\Debug\EntityFramework.xml
+C:\Users\İrem\Source\Repos\ToDoList\ToDoList\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\İrem\Source\Repos\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.AssemblyReference.cache
+C:\Users\İrem\Source\Repos\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.SuggestedBindingRedirects.cache
+C:\Users\İrem\Source\Repos\ToDoList\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+C:\Users\İrem\Source\Repos\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.cache
+C:\Users\İrem\Source\Repos\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.CoreCompileInputs.cache
+C:\Users\İrem\Source\Repos\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.CopyComplete
+C:\Users\İrem\Source\Repos\ToDoList\ToDoList\obj\Debug\ToDoList.exe
+C:\Users\İrem\Source\Repos\ToDoList\ToDoList\obj\Debug\ToDoList.pdb
+C:\Users\İrem\Source\Repos\ToDoList\ToDoList\obj\Debug\ToDoList.Form1.resources
+C:\Users\İrem\Source\Repos\ToDoList\ToDoList\obj\Debug\ToDoList.Form2.resources
